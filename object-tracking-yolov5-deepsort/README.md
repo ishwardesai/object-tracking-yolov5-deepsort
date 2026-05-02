@@ -5,7 +5,19 @@
 This project implements a multi-object tracking system for video footage using YOLOv5 for object detection and DeepSORT for object tracking.
 
 The system detects multiple moving objects in each video frame and assigns persistent tracking IDs so that the same object can be followed across consecutive frames.
+## Demo Videos
 
+### Original Traffic Footage
+This is the raw input traffic video used for object detection and tracking.
+
+[Watch Input Traffic Video]((https://youtu.be/kjaPdOXvlOI))
+
+---
+
+### YOLOv5 + DeepSORT Tracking Output
+This video demonstrates the final multi-object tracking output. Vehicles and motorbikes are detected using YOLOv5 and tracked across frames using DeepSORT with persistent tracking IDs.
+
+[Watch Tracking Output Video]((https://youtu.be/ermJYtpII7s))
 ## Objective
 
 The objective of this project is to build an end-to-end computer vision pipeline that can:
