@@ -9,10 +9,10 @@ The system detects multiple moving objects in each video frame and assigns persi
 ## Demo Videos
 
 ### Input Video
-[Watch Input Traffic Video]([INPUT_LINK](https://youtu.be/kjaPdOXvlOI))
+[Watch Input Traffic Video](https://youtu.be/kjaPdOXvlOI)
 
 ### Tracking Output Video
-[Watch Tracking Output Video]([OUTPUT_LINK](https://youtu.be/ermJYtpII7s))
+[Watch Tracking Output Video](https://youtu.be/ermJYtpII7s)
 ## Objective
 
 The objective of this project is to build an end-to-end computer vision pipeline that can:
